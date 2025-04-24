@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Bienvenido a La Caverna del Dev</h1>
+<img src="icons/logo.png" alt="logo" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 5%;" />
+<br>
+<p align="center">Full Stack Developer Jr. | Enfocado en crear, aprender y crecer en el mundo del desarrollo web.</p>
 
-<!--
-**lacavernadeldev/lacavernadeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 En formación constante como Full Stack Developer
+- 🛠️ Me gusta trabajar tanto en frontend como backend
+- 💡  Me apasiona aprender nuevas tecnologías
+
+---
+
+### 📂 Proyectos destacados
+
+| Proyecto | Tecnologías 
+|----------|-------------
+| [Blog de anime](#) | ![](icons/html.png) ![](icons/css.png) ![](icons/js.png)
+
+
+---
+
+### 🌐 Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-La_Caverna_del_Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@lacavernadeldev)
+
+[![TikTok](https://img.shields.io/badge/TikTok-@lacavernadeldev-ff3d94?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@lacavernadeldev)
+
+[![Facebook](https://img.shields.io/badge/Facebook-@lacavernadeldev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/lacavernadeldev)
+
+[![X](https://img.shields.io/badge/@lacavernadeldev-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/lacavernadeldev)
