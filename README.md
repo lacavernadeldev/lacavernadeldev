@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido a La Caverna del Dev</h1>
-<img src="icons/logo.png" alt="logo" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 5%;" />
+<img src="icons/logo.webp" alt="logo" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 5%;" />
 <br>
 <p align="center">Full Stack Developer Jr. | Enfocado en crear, aprender y crecer en el mundo del desarrollo web.</p>
 
