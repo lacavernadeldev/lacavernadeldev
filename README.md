@@ -18,7 +18,7 @@
 
 | Proyecto | Tecnologías 
 |----------|-------------
-| [Diseño landing page de curso de astro](#) | ![](icons/Astro.svg) ![](icons/CSS3.svg) ![](icons/HTML5.svg)
+| [Diseño landing page de curso de astro](https://github.com/lacavernadeldev/landing-astrojs.git) | ![](icons/Astro.svg) ![](icons/CSS3.svg) ![](icons/HTML5.svg)
 
 
 ---
