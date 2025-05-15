@@ -18,7 +18,7 @@
 
 | Proyecto | Tecnologías 
 |----------|-------------
-| [Blog de anime](#) | ![](icons/html.png) ![](icons/css.png) ![](icons/js.png)
+| [Diseño landing page de curso de astro](#) | ![](icons/Astro.svg) ![](icons/CSS3.svg) ![](icons/HTML5.svg)
 
 
 ---
